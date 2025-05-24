@@ -1,0 +1,3 @@
+estado_contratacion,ID_contratacion,ID_trabajador,ID_servicio,ID_empleador,valor_acordado,modalidad,fecha_inicio
+pendiente,0177e9a4-a7c9-413f-beb7-53fce03ef32c,7d8c4d96-8ec7-4a99-b066-d026fd2b1c06,,27c9f017-947a-4408-9cd7-0e59e11494e2,1000.0,remoto,25/05/2025
+pendiente,273b8f4a-b244-42cc-b134-aac34f794fb5,7d8c4d96-8ec7-4a99-b066-d026fd2b1c06,,27c9f017-947a-4408-9cd7-0e59e11494e2,1000.0,remoto,30/05/2025
